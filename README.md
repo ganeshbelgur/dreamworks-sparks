@@ -13,8 +13,8 @@ L4: Collision with the ‘Stanford Bunny’
 
 You are free to use graphical enhancements (sprites/glow/complex-lighting etc.) on your output to make it visually appealing and look natural/realistic.
 
-![alt tag](https://github.com/usama-ghufran/fx_challenge_hackathon/blob/master/persp.jpg)
-![alt tag](https://github.com/usama-ghufran/fx_challenge_hackathon/blob/master/ortho.jpg)
+![alt tag](https://github.com/ganeshbelgur/dreamWorks_Oct2016/blob/master/persp.jpg)
+![alt tag](https://github.com/ganeshbelgur/dreamWorks_Oct2016/blob/master/ortho.jpg)
 
 # Solution: My Submission
 
@@ -22,10 +22,7 @@ The objective of my hack was to simulate the motion of sparks from a saw blade. 
 
 ## Preview: YouTube
 
-<a href="https://www.youtube.com/embed/dLn6G82HxNI" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<iframe width="750" height="400" src="https://www.youtube.com/embed/dLn6G82HxNI" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/dLn6G82HxNI)
 
 ## Instructions to run the code
 
@@ -43,5 +40,5 @@ localhost:4000
 
 ## Test Environment
 
-Ubuntu 16.04
-Google Chrome Browser
+Ubuntu 16.04 <br/>
+Google Chrome Browser <br/>
