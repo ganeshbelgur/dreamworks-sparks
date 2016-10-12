@@ -22,7 +22,7 @@ The objective of my hack was to simulate the motion of sparks from a saw blade. 
 
 ## Preview: YouTube
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dLn6G82HxNI/0.jpg)](https://www.youtube.com/watch?v=dLn6G82HxNI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dLn6G82HxNI/0.jpg)](https://www.youtube.com/watch?v=dLn6G82HxNI =750x400)
 
 ## Instructions to run the code
 
