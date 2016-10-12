@@ -22,7 +22,7 @@ The objective of my hack was to simulate the motion of sparks from a saw blade. 
 
 ## Preview: YouTube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dLn6G82HxNI" target="_blank"><img src="https://github.com/ganeshbelgur/dreamWorks_Oct2016/blob/master/thumbnail.jpg" alt="DreamWorks Animation Challenge | Ganesh B R" width="750" height="500" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dLn6G82HxNI" target="_blank"><img src="https://github.com/ganeshbelgur/dreamWorks_Oct2016/blob/master/thumbnail.jpg" alt="DreamWorks Animation Challenge | Ganesh B R" width="900" height="500" border="10" /></a>
 
 ## Instructions to run the code
 
